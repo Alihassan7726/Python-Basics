@@ -4,4 +4,6 @@
 1. Lists, Tuples, Sets, Dictionaries
 2. Lambda Functions
 3. User Defined Functions
-4. Loops & Conditional Statements etc
+4. Loops & Conditional Statements 
+5. Map, Reduce, Filter
+6. Custom sorting/filtering etc
