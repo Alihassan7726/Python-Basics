@@ -1,5 +1,5 @@
-### This repo covers all the basic concepts of Python for Data Science
-##### Topics are listed below :
+## This repo covers all the basic concepts of Python for Data Science
+#### Topics are listed below :
 
 1. Lists, Tuples, Sets, Dictionaries
 2. Lambda Functions
