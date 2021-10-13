@@ -6,4 +6,6 @@
 3. User Defined Functions
 4. Loops & Conditional Statements 
 5. Map, Reduce, Filter
-6. Custom sorting/filtering etc
+6. Custom sorting/filtering 
+7. Operators 
+8. List comprehensions
